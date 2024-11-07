@@ -1,2 +1,2 @@
 # ScreenerWebScraper
-This project involves building a Python scraper that extracts comprehensive financial data of Reliance Capital from the Screener.in website
+This project involves building a Python scraper that extracts comprehensive financial data of Reliance Capital from the Screener.in website. Using a combination of powerful libraries like BeautifulSoup, XPath, and Selenium, the code effectively gathers financial metrics, balance sheets, peer comparison, and cash flow tables. The data is processed and saved for further analysis, offering a clear view of the company's financial performance. This project showcases how web scraping can be applied to extract and analyze real-time financial data.
